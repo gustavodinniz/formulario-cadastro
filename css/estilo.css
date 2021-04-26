@@ -1,0 +1,18 @@
+/*Limpar formatações padrão*/
+
+*{
+	margin: 5px;
+	padding: 5px;
+}
+
+body{
+
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #FFFFFF;
+	color: #3997C8;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
